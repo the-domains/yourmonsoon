@@ -1,0 +1,28 @@
+name: yourmonsoon
+favicon: null
+layout_spectrum: 0.1646959998179227
+typography_spectrum: 0.5912641750182956
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.19138445192947984
+  lightness: 0.17362482543103397
+  saturation: 0.5111549161374569
+  rhythmicContrast: 0.36864445451647043
+purpose: []
